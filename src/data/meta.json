@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Nobodies",
+    "description": "Webring 4 the freaks!",
+    "image": "https://cdn.discordapp.com/attachments/1172225341150990417/1192600003739402301/nhgfds.png?ex=65a9aa4e&is=6597354e&hm=c5eb048b21f972ca534283da900ac7a3cf72892de45784f2e1ba321398e614e2&",
+    "url": "",
+    "repo": "https://github.com/reztard/webring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Rez",
+            "url": "https://github.com/reztard"
         }
     ]
 }
